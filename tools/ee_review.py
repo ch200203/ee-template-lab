@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""로컬 AI 리뷰 (D2 §11).
+"""로컬 AI 리뷰 (D2 §2).
 
 CI의 AI 리뷰(D4 §4)와 같은 계약을 로컬 변경에 적용한다.
 - 규칙: 기준 커밋의 REVIEW.md를 D3 §3 파서로 검증하고 active=true 규칙만 쓴다.
