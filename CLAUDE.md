@@ -33,6 +33,7 @@ AI는 PR 승인과 병합을 수행하지 않는다.
 
 ## 로컬 리뷰
 변경을 마친 뒤 `python3 tools/ee_review.py`로 REVIEW.md 활성 규칙 기준 AI 리뷰를 받을 수 있다.
+같은 규칙과 형식으로 PR에서는 CI의 ai-review가 Gemini API로 리뷰한다.
 지적은 참고 정보이며 완료 조건이 아니다. 지적을 반영할지는 근거를 보고 판단한다.
 
 ## 완료 조건
