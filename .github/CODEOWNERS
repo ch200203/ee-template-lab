@@ -1,0 +1,5 @@
+*            @example-org/order-service-reviewers
+/.github/    @example-org/ee-template-owners
+/.claude/    @example-org/ee-template-owners
+/CLAUDE.md   @example-org/ee-template-owners
+/REVIEW.md   @example-org/ee-template-owners
